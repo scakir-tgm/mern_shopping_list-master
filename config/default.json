@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://scakir:SuperSecretPassword1234 @cluster0-wtruf.mongodb.net/test?retryWrites=true",
+  "mongoURI": "mongodb+srv://scakir:SuperSecretPassword1234@cluster0-wtruf.mongodb.net/test?retryWrites=true",
   "jwtSecret": "sl_myJwtSecret"
 }
